@@ -1,0 +1,134 @@
+
+
+%!target: html
+%!options:
+%! Style: nlp4n6.css
+%! PreProc:
+%! PostProc(html): \^\^(.*?)\^\^  <sup>\1</sup>
+%!postproc(html): @@ <BR>
+%!postproc(xhtml): @@ <br />
+
+
+[img/vcu.png]
+= Workshop: Natural Language Processing (NLP) for Digital Forensics =
+
+
+__**Host Institution:**__@@
+Virginia Commonwealth University (VCU)@@
+Department of Computer Science, @@
+College of Engineering, @@
+Richmond, VA - 23284 @@
+
+
+__**Contact Us:**__@@
+- Send an email to [Dr. Irfan Ahmed http://www.people.vcu.edu/~iahmed3/] if you have any questions. @@Include **NLPWorkshop** in the subject. @@
+- Email: iahmed3 at vcu dot edu @@
+
+
+---------------------------------------------------------------------------
+===Register for the Workshop@@===
+Please Complete This Google Form --> https://forms.gle/QDSxLw5NHKr9P9Wt6
+
+
+===Learning Outcomes===
+[img/nlp4n6.jpeg]
+- Understand how to use text analysis to make digital forensic investigations more efficient
+- Understand the value of NLP and its role in digital forensics
+- Ability to distinguish different textual data common in digital forensics and apply appropriate NLP algorithms
+- Ability to use state-of-the-art tools for NLP
+
+
+===What to Bring===
+- Motivation and enthusiasm
+- Willingness to learn NLP and digital forensics
+- **Your Laptop**
+- Gmail account to access Google Colab (https://colab.research.google.com/)
+
+
+===Important Dates===
+| Application Deadline: | May 09, 2022 |
+| Workshop Date: | 10 am - 12 pm on May 11, 2023 |
+
+
+===Workshop Location===
+Room E4221, Computer Lab at the Fourth Floor in Engineering Building East
+
+===Workshop Details ===
+
+**Introduction**
+
+Digital forensics investigations often involve the analysis of text, e.g., text messages, e-mails, forum posts.
+Text analysis in digital forensics endeavors to reveal valuable information and undetected patterns in vast digital
+text data to assist investigations. This type of analysis can aid in identifying pertinent evidence, tracing suspects,
+and constructing a case. In addition, it can aid in discovering cyber threats and fraud by examining evidence present
+in emails, social media, and other forms of digital communication that are part of  cyber-attacks and financial crimes.
+
+
+Using modern Natural Language Processing (NLP) techniques for forensic text analysis can greatly enhance the efficiency
+of the analysis of text in digital forensics. For instance, NLP pre-processing techniques like tokenization, preprocessing,
+stemming, and named entity recognition (NER) can help to extract relevant information from unstructured digital evidence
+data more efficiently and effectively. NLP analysis techniques, such as clustering, text summarization, and categorization,
+can also help to identify patterns and relationships in text data that might otherwise be difficult to detect.
+Additionally, text visualization techniques such as word clouds, network visualizations, and topic modeling create meaningful
+visual representations of the text data, which can aid in identifying patterns and relationships in the text and make the
+analysis more interpretable and understandable.
+
+
+Through this workshop on using NLP in forensic text analysis, participants will greatly improve their ability to extract
+valuable information from large amounts of digital forensics text data, which can be critical for investigations and decision-making.
+
+
+**Workshop Module Details**
+
+The workshop will start with an introductory session on Digital Forensics and NLP techniques (i.e., a NLP primer) followed by two
+different scenarios where digital forensics investigation will be augmented using NLP techniques.
+Each scenario will involve a set of forensics questions that will be answered using NLP techniques,
+along with interactive exercises to engage the audience.
+
+
+- //**Module 1: Digital Forensics Primer**//
+- //**Module 2: NLP Primer**//
+- //**Module 3: Enron Corpus Fraud Investigation**//
+- //**Module 4: Discord Chat Cyberbullying**//
+
+
+**Module 1: Digital Forensics Primer**
+
+Following topics will be covered in this module:
+
+- What is digital forensics?
+- Digital forensics workflow
+- Digital forensics principles
+
+
+**Module 2: NLP Primer**
+
+The audience will be introduced to the following topics:
+
+- What is NLP?
+- Data collection and preprocessing
+- Lemmatization and stemming
+- Keyword and phrase searching
+- Text classification
+- Named Entity Recognition
+- Part-of-speech tagging
+- Topic modeling
+
+
+**Module 3: Enron Corpus Fraud Investigation**
+
+The Enron email dataset contains approximately 500,000 emails, obtained by the Federal Energy Regulatory Commission during its investigation of Enron's collapse. In this scenario, we will explore:
+
+- Whether specific keywords related to a particular crime or suspect occur in email discussions.
+- How to extract keywords from email text by using state-of-the-art NLP tools and libraries like NLTK or spaCy.
+- Using regular expressions to identify the specific pattern of text and quickly extract the relevant information from a large email corpus.
+
+
+**Module 4: Discord Chat Cyberbullying**
+
+Consider a scenario where the digital investigation team was assigned to analyze a large dataset collected from a Discord chat
+for cyberbullying or other malicious activities. Following forensics questions will be addressed:
+
+- How many active users are in the chat?
+- Who were the most active participants in discussions?
+- Who communicated with whom and how often (in terms of messages, in terms of different topics)?
