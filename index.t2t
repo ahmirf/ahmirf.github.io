@@ -15,7 +15,7 @@ College of Engineering, @@
 Virginia Commonwealth University, @@
 Richmond, VA - 23284
 ---------------------------------------------------------------------------
- 
+
 [img/ahmed.jpg]
 
 I am an Associate Professor of Computer Science at
@@ -72,7 +72,7 @@ __**Research Funding:**__
 
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
-- **Industrial Control System Security** (programmable logic controllers, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
+- **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
   - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
   - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems **//(Best Student Paper Award)//**
