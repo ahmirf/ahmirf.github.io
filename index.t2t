@@ -73,42 +73,42 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
-  - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
+  - [[HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
   - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems **//(Best Student Paper Award)//**
-  - [[IEEE S&P J.'23 publications/2023-ieee-sp.pdf]] How are industrial control systems insecure by design? A deeper insight into real-world PLCs
-  - [[IEEE HOST'23 publications/2023-ieee-host.pdf]] Gadgets of Gadgets in Industrial Control Systems: Return Oriented Programming Attacks on PLCs
-  - [[IEEE CSR'22 publications/2022-ieee-csr.pdf]] Control Logic Obfuscation Attack in Industrial Control Systems
+  - [[S&P J.'23 publications/2023-ieee-sp.pdf]] How are industrial control systems insecure by design? A deeper insight into real-world PLCs
+  - [[HOST'23 publications/2023-ieee-host.pdf]] Gadgets of Gadgets in Industrial Control Systems: Return Oriented Programming Attacks on PLCs
+  - [[CSR'22 publications/2022-ieee-csr.pdf]] Control Logic Obfuscation Attack in Industrial Control Systems
   - [[DFRWS'22 publications/2022b-dfrws-eu.pdf]] PEM: Remote Forensic Acquisition of PLC Memory in Industrial Control Systems **//(Best Paper Award)//**
   - [[DFRWS'22 publications/2022a-dfrws-eu.pdf]] Memory Forensic Analysis of a Programmable Logic Controller in Industrial Control Systems **//(Best Student Paper Award)//**
   - [[DFRWS'21 publications/2021-dfrws.pdf]] JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems
-  - [[USENIX WOOT'21 publications/2021-woot.pdf]] Empirical Study of PLC Authentication Protocols in Industrial Control Systems
+  - [[WOOT'21 publications/2021-woot.pdf]] Empirical Study of PLC Authentication Protocols in Industrial Control Systems
   @@**//(Resulted in 7 CVEs: CVE-2021-32980, CVE-2021-32984, CVE-2021-32986, CVE-2021-32982, CVE-2021-32978, CVE-2021-32926, and CVE-2020-15791)//**
-  - [[IFIP ICCIP'21 publications/2021-ifip-iccip.pdf]]  Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems
+  - [[ICCIP'21 publications/2021-ifip-iccip.pdf]]  Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems
   @@**//(Resulted in CVE-2023-2310)//**
   - [[DFRWS'20 publications/2020_dfrws_us.pdf]] Control Logic Forensics Framework using Built-in Decompiler of
 Engineering Software in Industrial Control Systems **//(Best Student Paper Award)//**
-  - [[IFIP SEC'19 publications/ifip_sec_2019_attack.pdf]] Control Logic Injection Attacks on Industrial Control Systems
+  - [[SEC'19 publications/ifip_sec_2019_attack.pdf]] Control Logic Injection Attacks on Industrial Control Systems
   @@**//(Resulted in three CVEs: CVE-2018-7790, CVE-2018-7791, and CVE-2018-7792)//**
   - [[ISC'19 publications/2019_Similo_ISC.pdf]] Automated Reconstruction of Control Logic for Programmable Logic Controller Forensics
   - [[DIMVA'19 publications/dimva_2019_shade.pdf]] Overshadow PLC to Detect Remote Control-Logic Injection Attacks
   - [[NDSS BAR'19 publications/ndss_bar_2019.pdf]] CLIK on PLCs! Attacking Control Logic with Decompilation and Virtual PLC
-  - [[ACM CODASPY'18 publications/acm-codaspy-2018.pdf]] Denial of Engineering Operations Attacks in Industrial Control Systems
-  - [[IEEE S&P J.'17 publications/ieee_sp_2017.pdf]] Programmable Logic Controller Forensics
+  - [[CODASPY'18 publications/acm-codaspy-2018.pdf]] Denial of Engineering Operations Attacks in Industrial Control Systems
+  - [[S&P J.'17 publications/ieee_sp_2017.pdf]] Programmable Logic Controller Forensics
   - [[DFRWS'17 publications/dfrws-2017.pdf]] SCADA Network Forensics of the PCCC Protocol
   - [[ACSAC ICSS'16 publications/icss16-scada-testbed.pdf]] A SCADA System Testbed for Cybersecurity and Forensic Research and Pedagogy
-  - [[IEEE Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
+  - [[Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
-  - [[USENIX WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
-  - [IFIP ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
+  - [[WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
+  - [ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
   @@**//(Resulted in six CVEs: CVE-2024-22809, CVE-2024-22815, CVE-2024-22813, CVE-2024-22811, CVE-2024-22808, and CVE-2024-22807)//**
-  - [[IEEE EuroS&P'23 publications/2023-ieee-euro-s&p.pdf]] SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities
+  - [[EuroS&P'23 publications/2023-ieee-euro-s&p.pdf]] SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities
   - [[DFRWS'23 publications/2023a-dfrws-eu.pdf]] FRoMEPP: Digital Forensic Readiness Framework for Material Extrusion based 3D Printing Process
-  - [[IFIP ICCIP'22 publications/2022-iccip.pdf]]  Low-magnitude Infill Structure Manipulation Attacks on FFF-based 3D Printers
+  - [[ICCIP'22 publications/2022-iccip.pdf]]  Low-magnitude Infill Structure Manipulation Attacks on FFF-based 3D Printers
   - [[Additive Manufacturing Journal'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process **//(Impact Factor:  11.00 in 2021)//**
-  - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
+  - [[ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
   - [[DFRWS'22 publications/2022-dfrws-us.pdf]] Forensic Investigation of Instant Messaging Services on Linux OS: Discord and Slack as Case Studies
@@ -117,9 +117,9 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[DFRWS'18 publications/dfrws-2018.pdf]] Leveraging Relocations in Kernel ELF-binaries for Linux Kernel Version Identification
   - [[Digital Investigation, Elsevier'16 publications/di-cloud-forensics-2016.pdf]] Cloud Forensics-Tool Development Studies & Future Outlook
   - [[IFIP Forensics'16 publications/ifip-df-2016.pdf]] Forensic Acquisition of Cloud Drives
-  - [[ACM WiSec'16 publications/acm-wisec-2016.pdf]] Don't Touch that Column - Portable, Fine-Grained Access Control for Android's Native Content Providers
+  - [[WiSec'16 publications/acm-wisec-2016.pdf]] Don't Touch that Column - Portable, Fine-Grained Access Control for Android's Native Content Providers
   - [[ACSAC PPREW'15 publications/pprew-2015.pdf]] OpSeq - Android Malware Fingerprinting
-  - [[ACM CODASPY'15 publications/codaspy-2015.pdf]] Robust Fingerprinting for Relocatable Code
+  - [[CODASPY'15 publications/codaspy-2015.pdf]] Robust Fingerprinting for Relocatable Code
   - [[DFRWS'14 publications/DFRWS_2014.pdf]] Image-Based Kernel Fingerprinting
   - [[ISC'13 publications/isc_2013.pdf]] Integrity Checking of Function Pointers in Kernel Pools via Virtual Machine Introspection **//(Best Paper Award)//**
   - [[IFIP Forensics'13 publications/ifipwg119-2013_preprint.pdf]] Rule-based Integrity Checking of Interrupt Descriptor Table in Cloud Environments
@@ -130,10 +130,10 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
 - **Cybersecurity Education** (pedagogical techniques e.g,. peer instruction, concept maps, and problem-based learning, and hands-on learning tools)
   - [[IEEE Access'21 publications/2021b-ieee-access.pdf]] Cronus: An Automated Feedback Tool for Concept Maps
   - [[IEEE Access'21 publications/2021a-ieee-access.pdf]] Automated Waterloo Rubric for Concept Map Grading
-  - [[ACM SIGCSE'19 publications/sigcse-2018a.pdf]] Evaluation of Peer Instruction for Cybersecurity Education
-  - [[ACM SIGCSE'19 publications/sigcse-2018b.pdf]] Topological Scoring of Concept Maps for Cybersecurity Education
+  - [[SIGCSE'19 publications/sigcse-2018a.pdf]] Evaluation of Peer Instruction for Cybersecurity Education
+  - [[SIGCSE'19 publications/sigcse-2018b.pdf]] Topological Scoring of Concept Maps for Cybersecurity Education
   - [[IEEE S&P'18 publications/ieee_sp_2018.pdf]] Peer Instruction Teaching Methodology for Cybersecurity Education
-  - [[ACM SIGCSE'18 publications/acm-sigcse-2018.pdf]] Using Virtual Machine Introspection for Operating Systems Security Education
+  - [[SIGCSE'18 publications/acm-sigcse-2018.pdf]] Using Virtual Machine Introspection for Operating Systems Security Education
   - [[USENIX ASE'17 publications/usenix-ase-2017.pdf]] Peer Instruction for Digital Forensics
   - [[USENIX ASE'16 publications/ase16-peer-instruction.pdf]] Development of Peer Instruction Questions for Cybersecurity Education
 
