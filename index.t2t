@@ -102,7 +102,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
   - [HOST'25] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
-  - [ACM Trans. CPS'25] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
+  - [ACM TCPS'25] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
   - [ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
