@@ -73,6 +73,7 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
+  - [HOST'25] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems
   - [[HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
   - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems **//(Best Student Paper Award)//**
@@ -100,6 +101,8 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
+  - [HOST'25] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
+  - [ACM Trans. CPS'25] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
   - [ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
