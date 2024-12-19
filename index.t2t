@@ -169,6 +169,7 @@ __**Honors and Awards:**__
 
 
 __**Software/Hardware Vulnerability Disclosures:**__
+- [CVE-2024-11737 https://www.cisa.gov/news-events/ics-advisories/icsa-24-352-04], Schneider Electric Modicon M241, M251, M258, and LMC058
 - [CVE-2024-51330 https://www.cve.org/CVERecord?id=CVE-2024-51330], UltiMaker Cura
 - [CVE-2024-22807 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-22807], Tormach xsTECH CNC Router
 - [CVE-2024-22808 https://nvd.nist.gov/vuln/detail/CVE-2024-22808] Tormach xsTECH CNC Router
