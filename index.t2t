@@ -73,7 +73,7 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
-  - [ACM / IEEE ICCPS'25] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
+  - [ACM/IEEE ICCPS'25] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
   - [IEEE HOST'25] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems
   - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
@@ -112,7 +112,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[DFRWS'23 publications/2023a-dfrws-eu.pdf]] FRoMEPP: Digital Forensic Readiness Framework for Material Extrusion based 3D Printing Process
   - [[IFIP ICCIP'22 publications/2022-iccip.pdf]]  Low-magnitude Infill Structure Manipulation Attacks on FFF-based 3D Printers
   - [[Additive Manufacturing Journal'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process **//(Impact Factor:  11.00 in 2021)//**
-  - [[ACM / IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
+  - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
   - [[DFRWS'22 publications/2022-dfrws-us.pdf]] Forensic Investigation of Instant Messaging Services on Linux OS: Discord and Slack as Case Studies
