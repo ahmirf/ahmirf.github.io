@@ -73,8 +73,8 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
-  - [ACM/IEEE ICCPS'25] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
-  - [IEEE HOST'25] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems
+  - [[ACM/IEEE ICCPS'25 publications/2025-iccps.pdf]] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
+  - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems
   - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
   - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems **//(Best Student Paper Award)//**
@@ -102,9 +102,9 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[IEEE Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
-  - [IEEE HOST'25] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts
-  - [IEEE HOST'25] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
-  - [ACM TCPS'25] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
+  - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts
+  - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
+  - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[USENIX WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
   - [IFIP ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
