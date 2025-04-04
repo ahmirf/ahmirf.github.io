@@ -104,6 +104,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
   - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts
   - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
+  - [JMP, Elsevier'25] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
   - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[USENIX WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
@@ -116,6 +117,8 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
+  - [DFRWS'25] Leveraging Memory Forensics to Investigate and Detect Illegal 3D Printing Activities
+  - [DFRWS'25] Memory Analysis of the Python Runtime Environment
   - [[DFRWS'22 publications/2022-dfrws-us.pdf]] Forensic Investigation of Instant Messaging Services on Linux OS: Discord and Slack as Case Studies
   - [[INTERPOL Digital 4N6 Pulse'19 publications/INTERPOL-2019.pdf]] Cloud Forensics - A True Game Changer
   - [[Book Chapter'18 publications/igi-book-chap-2017.pdf]] Analysis of Cloud Digital Evidence
