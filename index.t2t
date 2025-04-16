@@ -104,6 +104,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[IEEE Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
+  - [J. Manufacturing Processes, Elsevier ] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
   - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts
   - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
   - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
