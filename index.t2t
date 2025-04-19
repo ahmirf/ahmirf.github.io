@@ -76,22 +76,22 @@ __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/
   - [USENIX WOOT'25] Oops, It Halted Again: Exploiting PLC Memory for Fun and Profit
   in Industrial Control Systems
   - [[ACM/IEEE ICCPS'25 publications/2025-iccps.pdf]] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
-  - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems
+  - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems @@**//(Best Paper Award Nominee)//**
   - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
-  - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems **//(Best Student Paper Award)//**
+  - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems @@**//(Best Student Paper Award)//**
   - [[IEEE S&P J.'23 publications/2023-ieee-sp.pdf]] How are industrial control systems insecure by design? A deeper insight into real-world PLCs
   - [[IEEE HOST'23 publications/2023-ieee-host.pdf]] Gadgets of Gadgets in Industrial Control Systems: Return Oriented Programming Attacks on PLCs
   - [[IEEE CSR'22 publications/2022-ieee-csr.pdf]] Control Logic Obfuscation Attack in Industrial Control Systems
-  - [[DFRWS'22 publications/2022b-dfrws-eu.pdf]] PEM: Remote Forensic Acquisition of PLC Memory in Industrial Control Systems **//(Best Paper Award)//**
-  - [[DFRWS'22 publications/2022a-dfrws-eu.pdf]] Memory Forensic Analysis of a Programmable Logic Controller in Industrial Control Systems **//(Best Student Paper Award)//**
+  - [[DFRWS'22 publications/2022b-dfrws-eu.pdf]] PEM: Remote Forensic Acquisition of PLC Memory in Industrial Control Systems @@**//(Best Paper Award)//**
+  - [[DFRWS'22 publications/2022a-dfrws-eu.pdf]] Memory Forensic Analysis of a Programmable Logic Controller in Industrial Control Systems @@**//(Best Student Paper Award)//**
   - [[DFRWS'21 publications/2021-dfrws.pdf]] JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems
   - [[USENIX WOOT'21 publications/2021-woot.pdf]] Empirical Study of PLC Authentication Protocols in Industrial Control Systems
   @@**//(Resulted in 7 CVEs: CVE-2021-32980, CVE-2021-32984, CVE-2021-32986, CVE-2021-32982, CVE-2021-32978, CVE-2021-32926, and CVE-2020-15791)//**
   - [[IFIP ICCIP'21 publications/2021-ifip-iccip.pdf]]  Attacking IEC-61131 Logic Engine in Programmable Logic Controllers in Industrial Control Systems
   @@**//(Resulted in CVE-2023-2310)//**
   - [[DFRWS'20 publications/2020_dfrws_us.pdf]] Control Logic Forensics Framework using Built-in Decompiler of
-Engineering Software in Industrial Control Systems **//(Best Student Paper Award)//**
+Engineering Software in Industrial Control Systems @@**//(Best Student Paper Award)//**
   - [[IFIP SEC'19 publications/ifip_sec_2019_attack.pdf]] Control Logic Injection Attacks on Industrial Control Systems
   @@**//(Resulted in three CVEs: CVE-2018-7790, CVE-2018-7791, and CVE-2018-7792)//**
   - [[ISC'19 publications/2019_Similo_ISC.pdf]] Automated Reconstruction of Control Logic for Programmable Logic Controller Forensics
@@ -105,7 +105,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
   - [J. Manufacturing Processes, Elsevier ] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
-  - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts
+  - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts @@**//(Semi-Finalists for the Best Paper Award)//**
   - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
   - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
@@ -115,7 +115,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[IEEE EuroS&P'23 publications/2023-ieee-euro-s&p.pdf]] SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities
   - [[DFRWS'23 publications/2023a-dfrws-eu.pdf]] FRoMEPP: Digital Forensic Readiness Framework for Material Extrusion based 3D Printing Process
   - [[IFIP ICCIP'22 publications/2022-iccip.pdf]]  Low-magnitude Infill Structure Manipulation Attacks on FFF-based 3D Printers
-  - [[Additive Manufacturing Journal'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process **//(Impact Factor:  11.00 in 2021)//**
+  - [[Additive Manufacturing Journal'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process @@**//(Impact Factor:  11.00 in 2021)//**
   - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
@@ -129,7 +129,7 @@ Engineering Software in Industrial Control Systems **//(Best Student Paper Award
   - [[ACSAC PPREW'15 publications/pprew-2015.pdf]] OpSeq - Android Malware Fingerprinting
   - [[ACM CODASPY'15 publications/codaspy-2015.pdf]] Robust Fingerprinting for Relocatable Code
   - [[DFRWS'14 publications/DFRWS_2014.pdf]] Image-Based Kernel Fingerprinting
-  - [[ISC'13 publications/isc_2013.pdf]] Integrity Checking of Function Pointers in Kernel Pools via Virtual Machine Introspection **//(Best Paper Award)//**
+  - [[ISC'13 publications/isc_2013.pdf]] Integrity Checking of Function Pointers in Kernel Pools via Virtual Machine Introspection @@**//(Best Paper Award)//**
   - [[IFIP Forensics'13 publications/ifipwg119-2013_preprint.pdf]] Rule-based Integrity Checking of Interrupt Descriptor Table in Cloud Environments
   - [[ACSAC LAW'12 publications/Atomizer-2012.pdf]] Atomizer: Fast, Scalable and Lightweight Heap Analyzer for Virtual Machines in a Cloud Environment
   - [[ICPP CloudSec'12 publications/modchecker-2012.pdf]] ModChecker: Kernel Module Integrity Checking in the Cloud
