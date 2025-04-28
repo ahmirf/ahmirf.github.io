@@ -104,9 +104,9 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[IEEE Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
-  - [J. Manufacturing Processes, Elsevier ] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
   - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts @@**//(Semi-Finalists for the Best Paper Award)//**
   - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
+  - [[J. Manufacturing Processes, Elsevier'25 publications/2025-jmp.pdf]] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
   - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[USENIX WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
@@ -115,7 +115,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[IEEE EuroS&P'23 publications/2023-ieee-euro-s&p.pdf]] SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities
   - [[DFRWS'23 publications/2023a-dfrws-eu.pdf]] FRoMEPP: Digital Forensic Readiness Framework for Material Extrusion based 3D Printing Process
   - [[IFIP ICCIP'22 publications/2022-iccip.pdf]]  Low-magnitude Infill Structure Manipulation Attacks on FFF-based 3D Printers
-  - [[Additive Manufacturing Journal'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process @@**//(Impact Factor:  11.00 in 2021)//**
+  - [[J. Additive Manufacturing'21 publications/2021-addma.pdf]] Dynamic-thermal and Localized Filament-kinetic Attacks on Fused Filament Fabrication based 3D Printing Process @@**//(Impact Factor:  11.00 in 2021)//**
   - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
@@ -147,6 +147,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
 
 
 __**Honors and Awards:**__
+- USCYBERCOM Defender Award by US Department of Defense Cyber Command, April 2025
 - CAE CoP-R (Community of Practice-Research) Community Service Award, NSA/DHS Center for Academic Excellence (CAE) Community Symposium, Charleston SC, April 2025
 - Engineering Foundation Endowed Professorship, Virginia Commonwealth University, December 2024
 - Best Poster Award, 24th Annual Digital Forensics Research Conference (DFRWS US’24), July 2024, Baton Rouge, Louisiana
