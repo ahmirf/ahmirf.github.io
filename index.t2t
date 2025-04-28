@@ -110,7 +110,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[ACM TCPS'25 publications/2025-acm-tcps.pdf]] Sabotaging material extrusion-based 3D printed parts through low-magnitude kinetic manipulation attacks
   - [[ACSAC'24 publications/2024-acsac.pdf]] BioSaFe: Bioprinting Security Framework for Detecting Sabotage Attacks on Printability and Cell Viability
   - [[USENIX WOOT'24 publications/2024-usenix-woot.pdf]] SOK: 3D Printer Firmware Attacks on Fused Filament Fabrication
-  - [IFIP ICCIP'24] Security Assessment of an LBP16 Protocol-based CNC Machine
+  - [[IFIP ICCIP'24 publications/2024-iccip.pdf]] Security Assessment of an LBP16 Protocol-based CNC Machine
   @@**//(Resulted in six CVEs: CVE-2024-22809, CVE-2024-22815, CVE-2024-22813, CVE-2024-22811, CVE-2024-22808, and CVE-2024-22807)//**
   - [[IEEE EuroS&P'23 publications/2023-ieee-euro-s&p.pdf]] SOK: Side Channel Monitoring for Additive Manufacturing - Bridging Cybersecurity and Quality Assurance Communities
   - [[DFRWS'23 publications/2023a-dfrws-eu.pdf]] FRoMEPP: Digital Forensic Readiness Framework for Material Extrusion based 3D Printing Process
