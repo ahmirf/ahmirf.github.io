@@ -75,8 +75,8 @@ __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
   - [USENIX WOOT'25] Oops, It Halted Again: Exploiting PLC Memory for Fun and Profit
   in Industrial Control Systems
-  - [[ACM/IEEE ICCPS'25 publications/2025-iccps.pdf]] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
   - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems @@**//(Best Paper Award Nominee)//**
+  - [[ACM/IEEE ICCPS'25 publications/2025-iccps.pdf]] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
   - [[IEEE HOST'24 publications/2024-ieee-host.pdf]] Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
   - [[ACSAC ICSS'23 publications/2023-icss.pdf]] vPLC: A scalable PLC testbed for IIoT security research
   - [[DFRWS'23 publications/2023-dfrws-us.pdf]] PREE: Heuristic Builder for Reverse Engineering of Network Protocols in Industrial Control Systems @@**//(Best Student Paper Award)//**
