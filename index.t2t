@@ -73,7 +73,7 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
-  - [USENIX WOOT'25] Oops, It Halted Again: Exploiting PLC Memory for Fun and Profit
+  - [[USENIX WOOT'25 publications/2025-usenix-woot.pdf]] Oops, It Halted Again: Exploiting PLC Memory for Fun and Profit
   in Industrial Control Systems
   - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems @@**//(Best Paper Award Nominee)//**
   - [[ACM/IEEE ICCPS'25 publications/2025-iccps.pdf]] PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems
