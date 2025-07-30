@@ -104,6 +104,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[IEEE Computer'12 publications/ieee_computer_2012.pdf]] SCADA systems: Challenges for Forensic Investigators
 
 - **Additive Manufacturing Security** (3D printers, side channel, vulnerability discovery and exploit development, and digital forensics)
+  - [[DFRWS US'25 publications/2025-dfrws-3dprinter.pdf]] Leveraging Memory Forensics to Detect Illegal Activities in 3D Printing @@**//(Best Paper Award)//** @@**//(Resulted in a CVE: CVE-2024-51330)//**
   - [[IEEE HOST'25 publications/2025-ieee-host-bioprinter.pdf]] 3D Bioprinter Firmware Attacks: Categorization, Implementation, and Impacts @@**//(Semi-Finalists for the Best Paper Award)//**
   - [[IEEE HOST'25 publications/2025-ieee-host-side-channel-3dprinter.pdf]] WattShield: A Power Side-Channel Framework for Detecting Malicious Firmware in Fused Filament Fabrication
   - [[J. Manufacturing Processes, Elsevier'25 publications/2025-jmp.pdf]] Machine Learning-based Early Detection of Malicious G-Code Manipulations in 3D Printing
@@ -119,6 +120,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
+  - [[DFRWS US'25 publications/2025-dfrws-python.pdf]] Memory Analysis of the Python Runtime Environment
   - [[DFRWS'22 publications/2022-dfrws-us.pdf]] Forensic Investigation of Instant Messaging Services on Linux OS: Discord and Slack as Case Studies
   - [[INTERPOL Digital 4N6 Pulse'19 publications/INTERPOL-2019.pdf]] Cloud Forensics - A True Game Changer
   - [[Book Chapter'18 publications/igi-book-chap-2017.pdf]] Analysis of Cloud Digital Evidence
