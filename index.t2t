@@ -30,7 +30,7 @@ My research interests are broadly in cybersecurity, currently
 focusing on digital forensics, malware, and cyber physical system security, including industrial control system, and additive manufacturing.
 I am a recipient of the [ORAU Ralph E. Powe Junior Faculty Enhancement Award https://oakridgetoday.com/2019/06/09/orau-awards-36-research-grants-to-junior-faculty-at-member-universities/],
 an Outstanding Research Award from the American Academy of Forensic Sciences (AAFS),
-the UNO's Early Career Research Prize, the Dean's Faculty Fellow Award at the VCU College of Engineering, USCYBERCOM Commander Award, and USCYBERCOM Guardian Award.
+the UNO's Early Career Research Prize, the Dean's Faculty Fellow Award at the VCU College of Engineering, USCYBERCOM Commander, Defender, Guardian, and Hunter Awards.
 
 My research work has been supported in part by the NSF, NSA, DHS, DOE, ONR, ARO, ORAU, USCYBERCOM and
 VA CCI, and has received four //Best Paper Awards// at DFRWS'25, DFRWS'22, ISC'13 and ICRC'11, three //Best Student Paper Awards// at DFRWS'23, DFRWS'22 and DFRWS'20, and
@@ -65,10 +65,10 @@ __**Experiential Learning Programs:**__
 
 __**Research Funding:**__
 - **Funding Sources:** DHS, NSF , NSA, DOE, AFRL, ARO, ONR, ORAU, VA-CCI, UNO, LA-BoR
-- **Total Funding:** $10,597,296 (Approx. $10.58 Million)
-- **My Share:** $5,458,781 (Approx. $5.45 Million)
-  - //Lead/Sole/Institute PI:// $4,575,047 (Approx. $4.56 Million)
-  - //Co-PI:// $883,734 (Approx. $0.84 Million)
+- **Total Funding:** $8,432,609 (Approx. $8.43 Million)
+- **My Share:** $5,327,111 (Approx. $5.32 Million)
+  - //Lead/Sole/Institute PI:// $4,413,377 (Approx. $4.41 Million)
+  - //Co-PI:// $913,734 (Approx. $0.91 Million)
 
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
@@ -120,6 +120,9 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
   - [[ACM/IEEE ICCPS'21 publications/2021-iccps.pdf]] Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing
 
 - **Digital Forensics and Malware** (cloud forensics, and OS kernel, hypervisor, virtual machines and containers)
+  - [[J. COSE'26 publications/2026-journal-cose-sbom.pdf]] What You See Is Not What You Execute: Memory-Based Runtime SBOM Generation for Supply Chain Security
+  - [[DFRWS US'26 publications/2026-dfrws-go-malware.pdf]] Memory Forensics Techniques for Automated Detection and Analysis of Go Malware @@**//(Best Paper Award)//**
+  - [[DFRWS US'26 publications/2026-dfrws-medical.pdf]] Digital Forensic Readiness of Regulated Medical Devices: An Empirical Study of the GE Venue Ultrasound System
   - [[DFRWS US'25 publications/2025-dfrws-python.pdf]] Memory Analysis of the Python Runtime Environment
   - [[DFRWS'22 publications/2022-dfrws-us.pdf]] Forensic Investigation of Instant Messaging Services on Linux OS: Discord and Slack as Case Studies
   - [[INTERPOL Digital 4N6 Pulse'19 publications/INTERPOL-2019.pdf]] Cloud Forensics - A True Game Changer
@@ -149,6 +152,7 @@ Engineering Software in Industrial Control Systems @@**//(Best Student Paper Awa
 
 
 __**Honors and Awards:**__
+- Best Paper Award, 26th Annual Digital Forensics Research Conference (DFRWS US'26), July 2026, Arlington, VA
 - USCYBERCOM Hunter Award by US Cyber Command, April 2026
 - Dean's Excellence Award in Research, VCU College of Engineering, February 2026
 - Best Paper Award, 25th Annual Digital Forensics Research Conference (DFRWS US'25), July 2025, Chicago, IL
@@ -216,10 +220,10 @@ __**Research Group:**__
   - Muhammad Shaharyar Yaqub, Aug 2023 - to-date
   - Yahya Forihat, Jan 2023 - to-date
   - Allison Sands, Jan 2023 - to-date
-  - Hala Ali, Jan 2023 - to-date
   - Nehal Ameen, Aug 2022 - to-date
   - Ashwini Vasudev, Aug 2022 - to-date
-  - Muhammad Ahsan, Aug 2021 - to-date
+  - Hala Ali, Jan 2023 - July 2026
+  - Muhammad Ahsan, Aug 2021 - July 2026
   - Adeen Ayub, Jan 2020 - July 2024
     - Current Employment: Tenure Track Assistant Professor at James Madison University, VA
   - Muhammad Haris Rais, Jan 2019 - May 2023
