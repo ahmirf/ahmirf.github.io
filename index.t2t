@@ -73,6 +73,8 @@ __**Research Funding:**__
 
 __**Selected Publications**__ [[Full List https://safe.lab.vcu.edu/publications/by-date/]]:
 - **Industrial Control System Security** (PLCs, SCADA systems, digital forensics, vulnerability discovery and exploit development, and network protocol and binary analysis)
+  - [IEEE HOST'27] Watching the Drive, Not the Wire: Non-Contact EMI Detection of VFD Actuation Attacks in Industrial Control Systems
+  - [IEEE HOST'27] When Control Logic Lies: Firmware-Aware Detection of Compromised PLCs in Industrial Control Systems
   - [[USENIX WOOT'25 publications/2025-usenix-woot.pdf]] Oops, It Halted Again: Exploiting PLC Memory for Fun and Profit
   in Industrial Control Systems
   - [[IEEE HOST'25 publications/2025-ieee-host-wavesleuth.pdf]] WaveSleuth: Retrospective PLC Memory for Anomaly Detection in Industrial Control Systems @@**//(Best Paper Award Nominee)//**
